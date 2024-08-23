@@ -8,7 +8,7 @@ A simple single page website created using only HTML and CSS, designed to serve 
 - **HTML:** Creating the structure of the web page.
 - **CSS:** Styling the web page.
 - **Box-icon:** For icons.
-- - **Google fonts** For different font family.
+- **Google fonts** For different font family.
 
 ## Future Plans
 
