@@ -30,7 +30,7 @@ A simple single page website created using only HTML and CSS, designed to serve 
 
 ## Website looks
 
-(assets/img_01.png)
-(assets/img_02.png)
-(assets/img_03.png)
-(assets/img_04.png)
+![](assets/img_01.png)
+![](assets/img_02.png)
+![](assets/img_03.png)
+![](assets/img_04.png)
