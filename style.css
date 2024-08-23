@@ -19,6 +19,12 @@ a{
     text-decoration: none;
     color: wheat;
 }
+
+
+
+
+/* -----------------------------navbar----------------------------- */
+
 header {
     display: flex;
     flex-direction: column;
@@ -67,12 +73,6 @@ header {
     font-weight: 600;
     padding: 0px 10px;
 }
-
-
-
-
-
-
 .primaryNav {
     width: 100vw;
     height: 60px;
@@ -146,7 +146,7 @@ header {
 
 
 
-
+/* -----------------------------------hero section----------------------------- */
 
 .hero-section {
     width: 100%;
@@ -224,14 +224,6 @@ header {
         background-position: 0% 50%;
     }
 }
-
-
-
-
-
-
-
-
 .hero-section .hover {
     position: absolute;
     top: (100%/2);
@@ -304,7 +296,7 @@ header {
 
 
 
-
+/* -------------------------feature-models------------------------------- */
 .portion {
     display: flex;
     align-items: center;
@@ -385,7 +377,7 @@ header {
 
 
 
-
+/* ---------------------------footer--------------------------------- */
 
 footer {
     background-color: rgb(255, 255, 255 , .15);
