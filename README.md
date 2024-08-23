@@ -2,7 +2,6 @@
 
 A simple single page website created using only HTML and CSS, designed to serve for learning HTML, CSS, and JavaScript. The project is intended for practice purposes and aims to provide a clean and informative starting point for anyone interested in learning web development.
 
-
 ## Technologies Used
 
 - **HTML:** Creating the structure of the web page.
@@ -18,15 +17,13 @@ A simple single page website created using only HTML and CSS, designed to serve 
 
 ## Acknowledgments
 
-- **This project is inspired by the need for a simple, beginner-friendly landing page for learning web development.**
-
+This project is inspired by the need for a simple, beginner-friendly landing page for learning web development.
 
 ## How to Use
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/Anayatul-Ahad-Shoikot/BA-FrontEnd_design_01.git
-
 
 ## Website looks
 
