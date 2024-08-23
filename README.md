@@ -25,4 +25,4 @@ A simple single page website created using only HTML and CSS, designed to serve 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com//Anayatul-Ahad-Shoikot/BA-FrontEnd_design_01.git
