@@ -26,3 +26,11 @@ A simple single page website created using only HTML and CSS, designed to serve 
 1. Clone the repository:
    ```bash
    git clone https://github.com/Anayatul-Ahad-Shoikot/BA-FrontEnd_design_01.git
+
+
+## Website looks
+
+![0](Web_images/img_01.png)
+![1](Web_images/img_02.png)
+![2](Web_images/img_03.png)
+![3](Web_images/img_04.png)
